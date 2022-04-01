@@ -1,6 +1,4 @@
 [![DOI](https://zenodo.org/badge/476023339.svg)](https://zenodo.org/badge/latestdoi/476023339)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexliberzonlab/mixed_age_algae_population_modeling/HEAD)
-
 
 # Mixed-age Ulva populations modeling 
 
