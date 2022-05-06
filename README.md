@@ -2,8 +2,7 @@
 
 # Mixed-age Ulva populations modeling 
 
-This is a Python code repository for the manuscript entitled: "Modeling the growth and sporulation dynamics of the macroalga Ulva in mixed-age populations in cultivation and the formation of green tides" by Obolski, Wichard, Israel, Golberg, and Liberzon, published in  Biogeosciences, 19, 1–9, 2022, 
-https://doi.org/10.5194/bg-19-1-2022
+This is a Python code repository for the manuscript entitled: "Modeling the growth and sporulation dynamics of the macroalga Ulva in mixed-age populations in cultivation and the formation of green tides" by Obolski, Wichard, Israel, Golberg, and Liberzon, published in  Biogeosciences, 19, 2263–2271, 2022, https://doi.org/10.5194/bg-19-2263-2022 or https://bg.copernicus.org/articles/19/2263/2022/
 
 
 ## How to use it
